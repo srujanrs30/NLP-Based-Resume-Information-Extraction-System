@@ -1,8 +1,9 @@
-spacy==3.7.2
+spacy
 huggingface_hub
 rapidfuzz
 
-pip install -r requirements.txt
+
 python -m spacy download en_core_web_sm
-pip install *.whl
-pip install dist/**/*.tar.gz
+pip install models/en_name_model-1.0.0-py3-none-any.whl
+pip install models/en_experience_model-1.0.0-py3-none-any.whl
+
