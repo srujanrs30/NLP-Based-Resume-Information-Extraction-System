@@ -1,0 +1,611 @@
+R
+.NET
+.Net
+A/B Testing
+AI
+AJAX
+API
+APIs
+ARM
+ASP.NET
+AWS
+Data analysis
+Ad-hoc Testing
+Adaptability
+Adobe Analytics
+Adobe Creative Suite
+Adobe XD
+Analytical Thinking
+Agile
+Agile/Scrum
+Airflow
+AWS
+S3
+Amazon Web Services
+Analytical Skills
+Analytics Design
+Analyze data
+Android SDK
+Android Studio
+Android development
+Angular
+AngularJS
+Ant
+Apis
+Appium
+Artificial Intelligence
+Authentication
+Automated testing
+Aws
+Azure
+Azure cloud solutions.
+BGP
+BLoC
+Backend Integration
+Bash
+Bitrise
+Bloc
+Blockchain
+Bootstrap
+Budgeting
+Business Analysis
+Business Intelligence
+Business strategies
+C
+C#
+C++
+CAD
+CI
+CI/CD
+CNN
+CRUD
+CSM
+CSS
+CSS3
+Castilian
+Ci/CD
+CircleCI
+Clean-ups
+Clerk
+Cloud
+Cloudinary
+Coding and Scripting
+Collaborative
+Collect data
+data clean
+Communication
+Competitive Analysis
+Complex Problem Solving
+Computer Vision
+Confluence
+Content Creation
+Continuous improvement
+Copywriting
+Cortex-M
+Crane
+Creative Writing
+Critical thinking
+Cryptography
+Css
+Cubit
+Customer Requirements Gathering
+Customer Service
+Customer service
+Customer support
+Cybersecurity
+Cypress
+DBMS
+DLC
+DLP
+Dart
+Data Analysis
+Data Engineering
+Data Management
+Data Mapping 
+Data Visualization
+Data Protection
+Data Science
+Data Visualization
+Data analysis
+Data analytics
+Data collection
+Data visualization
+Data-Based Recommendations
+Database Management
+Databases
+Davidson
+Team Player
+Deep Learning
+Detail Oriented
+Detail-oriented
+DevOps
+Django
+Docker
+Dreamweaver
+EC2
+ERP
+ERT
+ES6+
+ESP32
+ETL
+Time Management
+Electron.js
+Embedded C
+Engineering Best Practices
+Engineering Teams
+Enterprise Systems
+Enterprise Systems Migration
+Ethereum
+Ethers.js
+Excel
+Communication Skills
+Express Js
+Express.js
+Extract, Load, Transform
+Extract, Transform, Load
+FULL STACK
+Fastlane
+Figma
+Firebase
+Firestore
+Firewalls
+Flask
+Flexbox
+Flutter
+Framer
+Frontend
+Full-stack
+Functional Testing
+GCP
+GUI
+Git
+Git/GitHub
+GitHub
+Github
+Go
+Google Analytics
+Google Cloud
+GraphQL
+Grid
+HCM
+HTML
+HTML5
+Hadoop
+Handlebars.js
+Hardhat
+Hibernate
+Hooks
+Hyperledger
+DevOps
+IDS/IPS
+IIS
+IOT
+Design & Development
+Project Management
+Service Management
+IT infrastructure
+IT operations
+IaC
+InVision
+Industry Trends & Sales Forecasting
+Information Security
+Information Systems Security
+Information Technology
+Infrastructure as Code
+Ingest
+J2Ee
+JAVA
+JQuery
+JS
+JWT
+Jasmine
+Java
+Java Script
+Jenkins
+Cloud Computing
+Jira
+Jquery
+KPI
+Kafka
+Kanban
+Keras
+Kotlin
+Kotlin native
+Kubernetes
+LINUX
+Leadership
+Linux
+MATLAB
+MERN
+ML
+MPLS
+MS Access
+MS Excel
+MS Power Point
+MS Word
+Mac
+Machine Learning
+Macros
+Pivot Tables
+Manual Testing
+Market & Trend Analysis
+Material-UI
+Mathematics
+Maven
+Metamask
+Metasploit.
+Power BI
+Mocha
+Mongo Db
+MongoDB
+Mongoose
+Multitasking
+MySQL
+NLP
+Nagios
+Network Security
+Networking
+Neural Networks
+Next.js
+Nmap
+NoSQL
+Node Js
+Node.js
+Node.js.
+NumPy
+OBIEE
+OLAP
+OSPF
+Object-oriented programming
+Oracle
+PHP
+PI development,
+PL/SQL
+PMP
+Palo Alto
+Pandas
+Photoshop
+Postman
+Power BI
+Power Bi
+Principle
+Problem Solving
+Problem-Solving
+Process Automation
+Process Management
+Productivity
+Programming
+PyTorch
+Pytest
+Python
+QA
+QA Testing
+Quality Engineering
+Quality Management
+RDS
+REST API
+REST APIs
+RESTful APIs
+RHEL
+RNN
+RTOS
+Rackspace
+Raspberry Pi
+React
+React Js
+React Native
+React.js
+ReactJS
+Redux
+Regression analysis
+Relational Database Development
+Render
+Reporting
+RequireJS
+Research
+Adaptability
+Research
+Software solutions
+Research & Development
+Resource Planning
+Responsive Design
+Restful APIs
+Risk Analysis
+River Tech
+Route 53
+Router
+Rust
+S Code
+S3
+SAP
+SD-WAN
+SDLC
+SEO
+SQL
+SQLite
+SSIS
+SSMS
+SSRS
+SageMaker
+Sass
+Scikit-learn
+Scripting & Debugging
+Scrum
+Scrum Master
+Seattle
+Seattle Information Technology
+Security Architecture
+Selenium
+Pytest
+Self Starter
+Server
+Data Analysis
+Server
+Stored Procedures
+Serverless Architecture
+Servicenow
+Sketch
+Slack
+Social Media Management
+Socket.io
+Software Design and Development
+Software Development
+Software Development Lifecycle
+Software Troubleshooting
+Software optimization
+Software testing methodologies
+Software/Hardware Validation
+Solidity
+Solutions Deployment
+Spark
+Splunk
+Spring Boot
+Sql
+Statistics
+Strategic Planning
+Strategic Thinking
+IT Architecture & Infrastructure
+Streamlit
+Stripe
+Stripe API
+Strong Leadership
+communications skills
+problem-solving capabilities
+Supabase
+Swift
+System analysis
+Systems Engineering
+Systems Virtualization
+Systems administration
+Tableau
+Excel
+Tailwind
+Tailwind CSS
+TailwindCSS
+Team Leadership
+Team Player
+Teamwork
+Technical Concept
+Technical Documentation
+Technical Presentations
+Technical Support
+TensorFlow
+TensorFlow Lite
+TestNG
+Testing Suites
+TestingPostman
+Threat Assessment
+Time Management
+Tomcat
+Training Skills
+Troubleshooting
+Truffle
+TypeORM
+TypeScript
+UI
+UI/UX
+Unit Testing
+User Interface/ User Experience
+VLAN
+VMware
+VPC
+VPN
+VPNs
+VS Code
+VScode
+Vercel
+Visual Studio
+Vite
+Vs code
+WS
+Waterfall
+Web Application
+Web3.js
+Willingness to learn
+Wireframing
+Wireshark
+XAMPP
+XHTML
+Xampp
+Xcode
+Yelp API
+ZTNA
+agile
+algorithms
+analysis
+analytical and problem-solving skills
+analytical thinking
+analytics
+analytics and risk.
+analyzing data
+application development
+data Science
+data Structures
+data Structures & Algorithms,
+data Structures and Algorithms
+data Structures,
+database integration
+authentication
+automated testing
+automation
+java
+backend
+behavior analysis
+bootstrap
+bug fixes
+building reports
+business intelligence
+business management
+business reports
+business transformation systems.
+change management
+clean code
+cloud
+cloud infrastructure
+code
+communication
+communication skills
+computer services
+continuous integration
+creative thinker
+creative writing
+css
+cybersecurity infrastructure
+dashboards
+data analysis
+data cleaning
+data collection
+data extraction
+data management
+data pipeline
+data processing
+data science
+data structures.
+data visualization
+data warehouse
+database management systems
+debugging
+debugging procedures
+debugging processes
+debugging written code and
+decision-making
+designing testing
+detail oriented
+detail-oriented
+developed
+developing
+digital marketing
+documentation
+self-manage
+enhance productivity
+ensure authenticity and quality.
+DevOps
+feasibility
+firewall
+firewalls
+front-end
+front-end
+back-end
+frontend
+full Stack
+hardware-software integration
+html
+iOS
+iPhone
+innovative 3D animations
+integration and testing
+GitHub
+jQuery
+java
+leadership
+algorithms
+lifecycle development
+low-risk
+maintainability
+maintained web applications
+maintenance of software systems.
+manual testing
+marketing knowledge
+modern applications
+monitoring and inspection
+monitoring data
+motivated attitude
+network access
+network monitoring
+network security
+network support
+networking systems
+Angular
+Docker
+Node.js
+MongoDB
+operating systems
+customer service
+overall management
+performance indicators
+postgres SQL
+problem-solving
+problem-solving skills
+process data
+process improvement
+product marketing
+productive
+productivity
+proficiency
+Communication
+project development plan
+reporting
+research methodologies
+responsive
+responsive UI
+responsive UIs
+responsive design
+Problem Solving
+security and the optimization
+Integrated APIs
+software application
+software design
+software development
+software development cycle
+spaCy
+spring boot
+springboard
+statistical analyses
+decision-making
+strategy development
+system designs
+systems design
+systems engineering concepts.
+technical support
+test scripts
+testing
+testing and deployment
+testing and maintenance
+testing and maintenance of software systems.
+tomcat server
+trend analyses
+troubleshoot software
+troubleshooting
+typeORM
+full-Stack
+unique programming solutions
+UI tests
+unit testing
+unit tests
+usability testing
+usability tests
+user experience
+user interface
+user interfaces
+vendor negotiations
+web analytics
+web application
+web applications
+web specifications
+web technologies
+website usability
+writing unique code
+express.js
+System Design
+Python
+Azure
